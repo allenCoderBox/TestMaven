@@ -1,0 +1,1 @@
+./gradlew -p alibrary clean build uploadArchives --info
